@@ -15,7 +15,9 @@ I am a passionate developer who loves creating Java applications, Minecraft plug
 - **Web Development**: Designing and developing responsive websites with React and Angular.
 
 ### 🔥 My Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=duckelekuuk&theme=dark&hide_border=true)
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duckelekuuk&theme=dark" />
+</p>
 
 ### 🌍 Connect with Me
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Duckelekuuk)
