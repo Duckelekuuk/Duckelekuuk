@@ -11,8 +11,8 @@ I am a passionate developer who loves creating Java applications, Minecraft plug
 
 ### 🧩 What I Do
 - **Java Applications**: Building efficient and scalable software solutions.
-- **Minecraft Plugins**: Creating custom plugins to enhance the Minecraft experience.
-- **Web Development**: Designing and developing responsive websites with React and Angular.
+- **Minecraft Plugins**: Creating custom plugins to enhance the Minecraft experience. Rollercoasters go brr
+- **Web Development**: Designing and developing responsive websites with React and Angular. 
 
 ### 🔥 My Stats
 <p align="center">
