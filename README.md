@@ -23,4 +23,4 @@ I am a passionate developer who loves creating Java applications, Minecraft plug
 
 ---
 
-⚡ *"Code is like humor. When you have to explain it, it’s bad."*
+⚡ "Why did the HTML file start a TikTok account? It needed a place to flex its body."
